@@ -54,4 +54,4 @@ class turbo {
 
   
 
- Scratch.extensions.register(new turbo());
+ Scratch.extensions.register(new Turbo());
